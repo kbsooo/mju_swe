@@ -1,3 +1,7 @@
+// 60212158 강병수
+// c++ 17 이상 버전으로 컴파일 해야합니다!
+// $ g++ -std=c++17 main.cpp
+
 #include <iostream>
 #include <filesystem>
 #include <vector>
